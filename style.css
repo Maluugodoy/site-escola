@@ -32,17 +32,16 @@
 
 }
 .escola-conteudo{ 
-width: 35%;
+width: 30%;
 }
 
 .escola-titulo {
     padding: 24px 0;
-}
-body{
     font-family: 'Poppins',sans-serif;
 }
 .estudante-imagem{
     width: 120px;
+    background-image: linear-gradient(#C587EB,#B5F8DC);
 }
 .estudante-icone{
     width: 24px;
